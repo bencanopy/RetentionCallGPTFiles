@@ -1,0 +1,722 @@
+[
+    {
+      "persona_id": "TECHNOLOGY_CHALLENGED_TRAINING",
+      "title": "Technology-Challenged Customer Needing Basic Training",
+      "primary_situation": "Customer lacks confidence using the app and needs help with basic features in order to get value from the platform.",
+      "customer_goal": "Learn core features quickly enough to use the platform in the field without frustration.",
+      "emotional_tone": ["overwhelmed", "embarrassed", "dependent on guidance"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I am not very good with this app stuff and I need help figuring out the basics.",
+      "known_facts": [
+        "Customer admits low proficiency with the app.",
+        "They may need immediate help with mobile features or downloading storm maps.",
+        "They need patient, accessible support."
+      ],
+      "hidden_facts": [
+        "They may be worried about looking incompetent.",
+        "They are more likely to stay if support feels nonjudgmental.",
+        "They may benefit more from live guidance than written instructions."
+      ],
+      "likely_objections": [
+        "I do not know how to use this on my phone.",
+        "This feels too complicated for me.",
+        "I need someone to walk me through it."
+      ],
+      "allowed_resolution_paths": [
+        "immediate tech support",
+        "scheduled Zoom training",
+        "step-by-step mobile walkthrough",
+        "follow-up training resources"
+      ],
+      "red_lines": [
+        "Using jargon without explanation",
+        "Implying the customer should already know this",
+        "Rushing through support"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer is receptive and willing to follow instructions.",
+        "medium": "Customer is frustrated and needs repeated reassurance.",
+        "hard": "Customer is embarrassed, defensive, and considering quitting because the platform feels too difficult."
+      },
+      "scoring_signals": [
+        "Rep normalizes the learning curve",
+        "Rep explains features in simple language",
+        "Rep offers immediate and scheduled support options",
+        "Rep confirms understanding before moving on",
+        "Rep closes with a clear training next step"
+      ]
+    },
+    {
+      "persona_id": "COVERAGE_PRICING_CONFUSION",
+      "title": "Confused About Coverage Area and Pricing",
+      "primary_situation": "Customer is unclear about what territories are included in their current plan and what it would cost to expand coverage.",
+      "customer_goal": "Understand exactly what is covered now and what options exist to add more areas.",
+      "emotional_tone": ["uncertain", "cautious", "analytical"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I need to understand exactly what areas I am paying for and what it would cost to add more.",
+      "known_facts": [
+        "Customer is unsure which states or cities are included.",
+        "They may believe they have coverage they do not actually have.",
+        "They are evaluating renewal or expansion decisions."
+      ],
+      "hidden_facts": [
+        "They may feel prior plan details were not clear.",
+        "They may be comparing current usage to future territory needs.",
+        "They are more likely to renew if the explanation is specific and transparent."
+      ],
+      "likely_objections": [
+        "I thought this area was already included.",
+        "Why would I need to pay extra for that territory?",
+        "I do not want surprises after renewing."
+      ],
+      "allowed_resolution_paths": [
+        "coverage clarification",
+        "pricing explanation for additional territories",
+        "plan comparison discussion",
+        "manager follow-up with detailed options"
+      ],
+      "red_lines": [
+        "Speaking vaguely about coverage boundaries",
+        "Avoiding exact pricing details",
+        "Assuming the customer understands plan terminology"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer simply needs a straightforward clarification.",
+        "medium": "Customer asks detailed questions and challenges prior assumptions.",
+        "hard": "Customer feels misled and questions whether renewal is worth it."
+      },
+      "scoring_signals": [
+        "Rep clearly explains current coverage",
+        "Rep identifies the exact gap between expectation and plan",
+        "Rep outlines pricing and territory options accurately",
+        "Rep avoids ambiguous language",
+        "Rep confirms the customer understands next steps"
+      ]
+    },
+    {
+      "persona_id": "BUDGET_CONSTRAINT",
+      "title": "Budget-Constrained Customer Seeking Flexibility",
+      "primary_situation": "Customer values HailTrace but cannot afford current renewal terms right now.",
+      "customer_goal": "Reduce immediate financial burden without fully losing access.",
+      "emotional_tone": ["practical", "stressed", "not hostile"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I like the platform, but I just cannot make this renewal work at that price right now.",
+      "known_facts": [
+        "Customer has used the service and sees value.",
+        "Cash flow is tight this month.",
+        "They want flexibility, not necessarily cancellation."
+      ],
+      "hidden_facts": [
+        "They may accept split billing if explained clearly.",
+        "They have not fully reviewed lower-tier options.",
+        "They are more likely to stay if the rep shows understanding before selling."
+      ],
+      "likely_objections": [
+        "We just do not have room in the budget.",
+        "I cannot commit to the full annual amount today.",
+        "I need something more flexible."
+      ],
+      "allowed_resolution_paths": [
+        "payment plan discussion",
+        "temporary downgrade",
+        "delayed restart date if policy allows",
+        "manager follow-up with options"
+      ],
+      "red_lines": [
+        "Pushy upsell before acknowledging budget reality",
+        "Vague promises without specifics",
+        "Dismissing their loyalty"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer is candid and cooperative.",
+        "medium": "Customer is cautious and asks detailed payment questions.",
+        "hard": "Customer is skeptical because they feel prior promises were unclear."
+      },
+      "scoring_signals": [
+        "Rep acknowledges value and budget pressure",
+        "Rep diagnoses whether issue is timing, amount, or plan fit",
+        "Rep presents approved flexibility options clearly",
+        "Rep does not invent discounts or policies",
+        "Rep closes on a concrete next step"
+      ]
+    },
+    {
+      "persona_id": "LEADERSHIP_CHANGE_DECISION_MAKER",
+      "title": "Leadership Change or New Decision-Maker",
+      "primary_situation": "A new stakeholder is now responsible for the account and is unfamiliar with the platform, its features, and prior purchasing rationale.",
+      "customer_goal": "Assess whether the current subscription still makes sense under new leadership.",
+      "emotional_tone": ["skeptical", "professional", "evaluative"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I just stepped into this role and I need to understand why we have this and whether we still need it.",
+      "known_facts": [
+        "A new decision-maker has joined mid-contract.",
+        "Previous leadership may have purchased features that were underused.",
+        "The customer needs orientation before making renewal decisions."
+      ],
+      "hidden_facts": [
+        "They may be looking for cost reductions to establish control.",
+        "They may distrust inherited vendor relationships.",
+        "They are more likely to stay if value is tied to business outcomes instead of feature lists."
+      ],
+      "likely_objections": [
+        "I do not know how much we are actually using this.",
+        "Why are we paying for these features?",
+        "I need to reevaluate all our vendors."
+      ],
+      "allowed_resolution_paths": [
+        "account review",
+        "business value recap",
+        "training and adoption plan",
+        "stakeholder follow-up meeting"
+      ],
+      "red_lines": [
+        "Relying on old assumptions about prior leadership",
+        "Defensiveness when asked to justify value",
+        "Overloading the customer with feature details without context"
+      ],
+      "difficulty_modifiers": {
+        "easy": "New stakeholder is open and simply needs context.",
+        "medium": "Stakeholder is comparing vendors and scrutinizing spend.",
+        "hard": "Stakeholder believes the platform was a poor purchase from the start."
+      },
+      "scoring_signals": [
+        "Rep acknowledges the leadership transition",
+        "Rep explains value in business terms",
+        "Rep identifies adoption gaps without blame",
+        "Rep proposes a structured review or onboarding plan",
+        "Rep creates a credible next step for stakeholder alignment"
+      ]
+    },
+    {
+      "persona_id": "OUTSIDE_COVERAGE_AREA",
+      "title": "Customer Working Outside Coverage Area",
+      "primary_situation": "Customer is actively working jobs in a location outside their coverage area and cannot access needed storm data.",
+      "customer_goal": "Get access or clarity fast enough to support active field work.",
+      "emotional_tone": ["frustrated", "urgent", "surprised"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "We are out working this area right now and I cannot access the storm data I need.",
+      "known_facts": [
+        "Customer is operating outside their existing territory.",
+        "They may not have realized territorial limitations before traveling.",
+        "They need practical options quickly."
+      ],
+      "hidden_facts": [
+        "They may blame the platform if expectations were unclear.",
+        "They may be willing to pay for expanded coverage if the process is fast.",
+        "They may be under pressure from jobs already in progress."
+      ],
+      "likely_objections": [
+        "I thought we would be able to use this here.",
+        "Why am I locked out when I need it most?",
+        "We are already on the ground in this market."
+      ],
+      "allowed_resolution_paths": [
+        "coverage clarification",
+        "temporary territory expansion discussion if allowed",
+        "pricing for adding new areas",
+        "manager escalation for urgent options"
+      ],
+      "red_lines": [
+        "Acting casual about the urgency",
+        "Blaming the customer for not knowing coverage limits",
+        "Giving uncertain answers about access"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer just needs a quick explanation and option set.",
+        "medium": "Customer is frustrated but willing to discuss expansion.",
+        "hard": "Customer feels misled and says the platform failed during a critical moment."
+      },
+      "scoring_signals": [
+        "Rep acknowledges operational urgency",
+        "Rep clearly explains territory limitations",
+        "Rep presents approved access options promptly",
+        "Rep does not overpromise immediate access if policy does not allow it",
+        "Rep ends with a concrete path forward"
+      ]
+    },
+    {
+      "persona_id": "ACCOUNT_ACCESS_EMAIL_ISSUES",
+      "title": "Account Access Issues Due to Email Problems",
+      "primary_situation": "Customer cannot receive reports or access the account because their primary email was hacked, changed, or is otherwise no longer usable.",
+      "customer_goal": "Restore secure access and make sure the right people receive account communications.",
+      "emotional_tone": ["concerned", "frustrated", "security-sensitive"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "Our email situation changed and now we are not getting the reports or account notifications.",
+      "known_facts": [
+        "Primary email access is compromised or outdated.",
+        "Reports and renewal notifications may not be reaching the right person.",
+        "Multiple users or ownership transfer may be needed."
+      ],
+      "hidden_facts": [
+        "Customer may worry about account security exposure.",
+        "They may be unsure who currently controls the account.",
+        "They are more likely to trust support that follows a clear verification process."
+      ],
+      "likely_objections": [
+        "We do not have access to that email anymore.",
+        "Important reports are going to the wrong place.",
+        "We need this fixed right away."
+      ],
+      "allowed_resolution_paths": [
+        "account verification process",
+        "email update request",
+        "multi-user setup discussion",
+        "ownership transfer escalation"
+      ],
+      "red_lines": [
+        "Skipping security verification",
+        "Being vague about what can and cannot be changed",
+        "Minimizing the seriousness of the email issue"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer has authority and needed verification details ready.",
+        "medium": "Customer needs guidance through admin changes and user setup.",
+        "hard": "Ownership is unclear and the customer is upset about missed communications."
+      },
+      "scoring_signals": [
+        "Rep treats the issue as security-sensitive",
+        "Rep explains verification and change steps clearly",
+        "Rep addresses both access and reporting impacts",
+        "Rep offers appropriate escalation when needed",
+        "Rep closes with a secure next step"
+      ]
+    },
+    {
+      "persona_id": "PAUSE_VS_CANCELLATION_CONFUSION",
+      "title": "Confusion Between Pause and Cancellation",
+      "primary_situation": "Customer believed the account was cancelled, but it was only paused and later resumed, leading to unexpected charges.",
+      "customer_goal": "Understand what happened and resolve billing frustration fairly.",
+      "emotional_tone": ["upset", "confused", "feels wronged"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I thought this account was cancelled, so why did I get charged again?",
+      "known_facts": [
+        "Customer believed cancellation had been completed.",
+        "Subscription resumed after a pause.",
+        "There may have been a prior communication or follow-up gap."
+      ],
+      "hidden_facts": [
+        "Customer may feel trust was broken by the company.",
+        "They may reference something a prior rep said.",
+        "They are more likely to calm down if the rep first acknowledges the confusion and impact."
+      ],
+      "likely_objections": [
+        "I was told this would be cancelled.",
+        "Nobody followed up with me.",
+        "I should not have been charged."
+      ],
+      "allowed_resolution_paths": [
+        "account history review",
+        "pause versus cancellation clarification",
+        "billing escalation if appropriate",
+        "manager follow-up"
+      ],
+      "red_lines": [
+        "Arguing with the customer before reviewing context",
+        "Using technical wording to avoid accountability",
+        "Dismissing prior agent communication concerns"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer wants an explanation and a fair correction path.",
+        "medium": "Customer is frustrated and demands specific billing answers.",
+        "hard": "Customer is angry, distrustful, and threatens dispute or churn."
+      },
+      "scoring_signals": [
+        "Rep acknowledges the confusion and unexpected charge",
+        "Rep clearly explains the difference between pause and cancellation",
+        "Rep reviews facts before making conclusions",
+        "Rep follows policy and escalates billing concerns appropriately",
+        "Rep leaves the customer with a concrete resolution path"
+      ]
+    },
+    {
+      "persona_id": "UNPAID_INVOICE_BEFORE_WEATHER_EVENT",
+      "title": "Unpaid Invoice Blocking Access Before Major Weather Event",
+      "primary_situation": "Customer is locked out because of an unpaid invoice right before a major weather event when access is business-critical.",
+      "customer_goal": "Restore access quickly or understand the fastest path to do so.",
+      "emotional_tone": ["urgent", "pressured", "frustrated"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "There is weather moving in and we need access now, but the account is blocked over an invoice.",
+      "known_facts": [
+        "Access is blocked due to unpaid billing.",
+        "Timing is critical because of an active weather period.",
+        "The decision-maker may be unavailable or hesitant."
+      ],
+      "hidden_facts": [
+        "Customer may be trying to buy time while internal approval catches up.",
+        "They may question feature usage before approving payment.",
+        "They are highly sensitive to slow or procedural responses."
+      ],
+      "likely_objections": [
+        "We cannot wait until next week for this.",
+        "The person who approves payment is unavailable.",
+        "We need the service before this weather weekend."
+      ],
+      "allowed_resolution_paths": [
+        "payment status clarification",
+        "billing options discussion if policy allows",
+        "urgent billing escalation",
+        "manager follow-up for time-sensitive review"
+      ],
+      "red_lines": [
+        "Ignoring the urgency of the weather event",
+        "Making promises about reactivation without approval",
+        "Lecturing the customer on billing discipline"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer can resolve payment quickly once guided.",
+        "medium": "Customer needs help navigating internal approval pressure.",
+        "hard": "Customer is locked out, upset, and feels the timing makes the situation unacceptable."
+      },
+      "scoring_signals": [
+        "Rep acknowledges the timing sensitivity",
+        "Rep explains the billing block clearly",
+        "Rep presents the fastest approved path to resolution",
+        "Rep escalates appropriately without inventing exceptions",
+        "Rep leaves the customer with an immediate next action"
+      ]
+    },
+    {
+      "persona_id": "LIMITED_STORM_ACTIVITY_POOR_VALUE",
+      "title": "Perceived Poor Value Due to Limited Storm Activity",
+      "primary_situation": "Customer feels they paid for a year of service but saw little return because storm activity did not produce usable leads in their area.",
+      "customer_goal": "Decide whether renewal is worth it given inconsistent storm opportunities.",
+      "emotional_tone": ["disappointed", "skeptical", "cost-conscious"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "We paid for the year, but the storms just were not there for us, so it feels like a waste.",
+      "known_facts": [
+        "Customer had limited useful storm opportunities during the term.",
+        "Storms may have missed their service radius.",
+        "They are questioning renewal due to inconsistent local activity."
+      ],
+      "hidden_facts": [
+        "They may understand this is partly weather variability, but still want value justification.",
+        "They may need help reframing value beyond a single season.",
+        "They are less likely to renew if the rep argues with their lived experience."
+      ],
+      "likely_objections": [
+        "We did not get enough leads from this.",
+        "It is hard to justify paying again.",
+        "Storm activity in our area is too inconsistent."
+      ],
+      "allowed_resolution_paths": [
+        "value review",
+        "coverage and targeting discussion",
+        "plan fit conversation",
+        "manager follow-up with renewal options"
+      ],
+      "red_lines": [
+        "Telling the customer their perception is wrong",
+        "Overstating expected storm volume",
+        "Ignoring local market variability"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer is open to a broader value discussion.",
+        "medium": "Customer presses hard on ROI and local results.",
+        "hard": "Customer sees the entire subscription as wasted spend."
+      },
+      "scoring_signals": [
+        "Rep validates the customer's disappointment",
+        "Rep separates platform value from uncontrollable weather variability carefully",
+        "Rep explores plan fit and territory strategy",
+        "Rep avoids guaranteeing future storm outcomes",
+        "Rep proposes a realistic next step around renewal or fit"
+      ]
+    },
+    {
+      "persona_id": "UNDERUTILIZING_FEATURES_NO_TRAINING",
+      "title": "Underutilizing Features Due to Lack of Training",
+      "primary_situation": "Customer bought the service but never fully onboarded, so they are missing valuable features and integrations.",
+      "customer_goal": "Understand what they are missing and how to start getting full value from the platform.",
+      "emotional_tone": ["curious", "slightly frustrated", "open to help"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I know we probably are not using this fully, but I do not really know what we are missing.",
+      "known_facts": [
+        "Customer never completed onboarding or training.",
+        "They may not know about included features or CRM integrations.",
+        "They are underutilizing the service."
+      ],
+      "hidden_facts": [
+        "They may feel some guilt about not adopting it properly.",
+        "They may renew if shown concrete unrealized value.",
+        "They need practical enablement, not just a feature dump."
+      ],
+      "likely_objections": [
+        "We never really got this set up properly.",
+        "I did not know that feature was included.",
+        "We have not had time to learn all of this."
+      ],
+      "allowed_resolution_paths": [
+        "usage review",
+        "training session scheduling",
+        "integration walkthrough",
+        "adoption plan follow-up"
+      ],
+      "red_lines": [
+        "Blaming the customer for low adoption",
+        "Dumping too many features at once",
+        "Ignoring the need for structured onboarding"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer is ready to engage in training.",
+        "medium": "Customer is busy and needs a concise value-focused path.",
+        "hard": "Customer doubts it is worth investing time into onboarding now."
+      },
+      "scoring_signals": [
+        "Rep identifies missed onboarding as the core issue",
+        "Rep connects underused features to real customer outcomes",
+        "Rep offers specific training or integration help",
+        "Rep avoids blame and focuses on enablement",
+        "Rep sets a concrete onboarding next step"
+      ]
+    },
+    {
+      "persona_id": "DUPLICATE_SERVICES_COST_CONCERN",
+      "title": "Duplicate Services Creating Cost Concerns",
+      "primary_situation": "Customer is paying for another service with overlapping functionality and is questioning whether HailTrace is redundant.",
+      "customer_goal": "Determine what unique value HailTrace provides versus the other platform.",
+      "emotional_tone": ["comparative", "cost-conscious", "skeptical"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "We already pay for another service that gives us similar data, so I need to know why we should keep both.",
+      "known_facts": [
+        "Customer already uses another service.",
+        "They see possible overlap in functionality.",
+        "They are evaluating whether both subscriptions are necessary."
+      ],
+      "hidden_facts": [
+        "They may already be leaning toward cutting one platform.",
+        "They may be testing whether the rep can articulate differentiated value.",
+        "They will respond better to honest comparison than defensive selling."
+      ],
+      "likely_objections": [
+        "This seems duplicative.",
+        "Why should we keep paying for both?",
+        "I am not sure the extra cost is justified."
+      ],
+      "allowed_resolution_paths": [
+        "feature differentiation discussion",
+        "workflow comparison",
+        "plan fit review",
+        "manager follow-up with retention options"
+      ],
+      "red_lines": [
+        "Claiming superiority without specifics",
+        "Attacking the competitor in vague terms",
+        "Ignoring overlap concerns"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer wants a fair comparison and is open-minded.",
+        "medium": "Customer cites overlap and asks detailed value questions.",
+        "hard": "Customer already believes HailTrace is the one to cut."
+      },
+      "scoring_signals": [
+        "Rep acknowledges overlap without defensiveness",
+        "Rep clearly differentiates HailTrace's value",
+        "Rep ties differentiation to the customer's workflow",
+        "Rep avoids unsupported competitor claims",
+        "Rep advances the conversation toward a decision-worthy next step"
+      ]
+    },
+    {
+      "persona_id": "NOTIFICATION_OVERLOAD_SETTINGS",
+      "title": "Notification Overload from Wrong Settings",
+      "primary_situation": "Customer is receiving too many irrelevant alerts because notification settings are misconfigured.",
+      "customer_goal": "Reduce noise and make alerts relevant to their actual coverage area and workflow.",
+      "emotional_tone": ["annoyed", "fatigued", "practical"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "I am getting way too many alerts from areas I do not even work, and it is becoming useless.",
+      "known_facts": [
+        "Customer is receiving excessive notifications.",
+        "Alerts may be enabled for too broad a region, including nationwide notifications.",
+        "They want settings corrected, not a sales conversation."
+      ],
+      "hidden_facts": [
+        "They may be close to turning notifications off entirely.",
+        "They may assume the system is poorly designed if support is not precise.",
+        "They are more likely to be satisfied if the rep resolves the issue simply and fast."
+      ],
+      "likely_objections": [
+        "These alerts are not relevant to me.",
+        "I am getting storms outside my area.",
+        "There are too many notifications to keep up with."
+      ],
+      "allowed_resolution_paths": [
+        "notification settings review",
+        "coverage filter adjustment guidance",
+        "user preference cleanup",
+        "follow-up training resource"
+      ],
+      "red_lines": [
+        "Treating the problem as trivial",
+        "Explaining settings in an overly technical way",
+        "Trying to upsell before fixing the alert issue"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer just needs a settings correction.",
+        "medium": "Customer is frustrated and needs guided configuration help.",
+        "hard": "Customer no longer trusts the alerts and is considering disengaging."
+      },
+      "scoring_signals": [
+        "Rep acknowledges the noise problem clearly",
+        "Rep identifies likely settings causing irrelevant alerts",
+        "Rep provides a precise correction path",
+        "Rep keeps the explanation simple",
+        "Rep confirms the customer's desired notification scope"
+      ]
+    },
+    {
+      "persona_id": "EXPECTING_REFUND_LIMITED_USAGE",
+      "title": "Expecting Refund After Limited Usage",
+      "primary_situation": "Customer wants a refund or service extension because weather, seasonality, or technical issues limited their ability to use the platform.",
+      "customer_goal": "Recover value they feel they lost from unused service time.",
+      "emotional_tone": ["disappointed", "entitled", "seeking fairness"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "We could not really use the service the way we expected, so I think we should get a refund or extension.",
+      "known_facts": [
+        "Customer had limited usage due to seasonal slowdown or system issues.",
+        "They feel they did not receive full value.",
+        "They may be asking for refund, credit, or extension."
+      ],
+      "hidden_facts": [
+        "They may be testing whether support is empowered to make concessions.",
+        "They may accept alternatives if the reasoning is clear and respectful.",
+        "They are sensitive to language that sounds dismissive of lost business time."
+      ],
+      "likely_objections": [
+        "We barely used it during that period.",
+        "Weather kept us from working.",
+        "I do not think we should pay full price for that."
+      ],
+      "allowed_resolution_paths": [
+        "policy-based refund discussion",
+        "service history review",
+        "manager escalation",
+        "renewal or extension alternatives if allowed"
+      ],
+      "red_lines": [
+        "Promising refunds without policy basis",
+        "Blaming the customer for seasonal constraints",
+        "Shutting down the conversation without empathy"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer mainly wants to feel heard and understand policy.",
+        "medium": "Customer pushes for a credit or exception.",
+        "hard": "Customer is upset, cites multiple usage barriers, and expects compensation."
+      },
+      "scoring_signals": [
+        "Rep acknowledges the customer's perceived lost value",
+        "Rep explains applicable policy clearly",
+        "Rep reviews relevant usage or issue context before concluding",
+        "Rep escalates appropriately when needed",
+        "Rep avoids unauthorized promises while preserving trust"
+      ]
+    },
+    {
+      "persona_id": "COMPETITOR_LOWER_PRICE_THREAT",
+      "title": "Competitive Threat from Lower-Priced Alternative",
+      "primary_situation": "Customer is actively evaluating or has moved to a lower-priced competitor and is questioning whether HailTrace is worth the premium.",
+      "customer_goal": "Compare price and value to decide whether to stay, return, or switch fully.",
+      "emotional_tone": ["price-sensitive", "comparative", "skeptical"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "Another provider is offering similar coverage for less, so I need to know why I should stay with HailTrace.",
+      "known_facts": [
+        "Customer is evaluating or already using a lower-priced competitor.",
+        "They may cite specific pricing and features.",
+        "They are looking for value differentiation and possibly retention concessions."
+      ],
+      "hidden_facts": [
+        "They may be using competitor pricing as leverage.",
+        "They may value specific premium features if clearly articulated.",
+        "They are unlikely to respond to generic claims of being better."
+      ],
+      "likely_objections": [
+        "They are cheaper than you.",
+        "I can get similar data elsewhere.",
+        "Why should I pay more for this?"
+      ],
+      "allowed_resolution_paths": [
+        "value differentiation discussion",
+        "feature and workflow comparison",
+        "approved retention option review",
+        "manager follow-up"
+      ],
+      "red_lines": [
+        "Unsupported competitor bashing",
+        "Making up price-matching authority",
+        "Avoiding the direct pricing challenge"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer is exploring and open to comparison.",
+        "medium": "Customer has a concrete competitor quote and expects a response.",
+        "hard": "Customer has already switched and sees little reason to come back."
+      },
+      "scoring_signals": [
+        "Rep addresses the pricing issue directly",
+        "Rep differentiates value with specifics",
+        "Rep does not invent competitor facts or discounts",
+        "Rep aligns the conversation to the customer's business use case",
+        "Rep closes on a concrete retention or follow-up path"
+      ]
+    },
+    {
+      "persona_id": "PAYMENT_METHOD_FAILURE_INTERRUPTION",
+      "title": "Payment Method Issues Causing Service Interruption",
+      "primary_situation": "Customer's payment method failed because of expiration, fraud replacement, or credit limit, causing suspension at a critical time.",
+      "customer_goal": "Update payment quickly and restore service with minimal disruption.",
+      "emotional_tone": ["urgent", "frustrated", "transactional"],
+      "knowledge_level": ["low", "medium", "high"],
+      "urgency": ["low", "medium", "high"],
+      "opening_line": "Our card changed and now the account is suspended, and we need this turned back on as soon as possible.",
+      "known_facts": [
+        "Card on file expired, was replaced, or failed.",
+        "Service interruption is tied to payment failure.",
+        "Timing may be especially sensitive because the customer is traveling or working active storms."
+      ],
+      "hidden_facts": [
+        "Customer may view this as an administrative issue that should be easy to fix.",
+        "They may need confidence that reactivation will be handled quickly once payment is resolved.",
+        "They are less interested in explanations than in fast resolution."
+      ],
+      "likely_objections": [
+        "The card issue was unintentional.",
+        "We need access restored right away.",
+        "This is bad timing for a payment problem."
+      ],
+      "allowed_resolution_paths": [
+        "payment method update guidance",
+        "billing status clarification",
+        "reactivation process explanation",
+        "urgent escalation if needed"
+      ],
+      "red_lines": [
+        "Being slow or vague about next steps",
+        "Making reactivation promises without confirming process",
+        "Treating it like a low-priority billing question"
+      ],
+      "difficulty_modifiers": {
+        "easy": "Customer can update payment immediately.",
+        "medium": "Customer needs help finding the right payer or method.",
+        "hard": "Customer is in a critical business moment and is highly frustrated by the interruption."
+      },
+      "scoring_signals": [
+        "Rep identifies payment failure as the root cause quickly",
+        "Rep explains how to update billing clearly",
+        "Rep gives an accurate reactivation path",
+        "Rep handles the issue with urgency",
+        "Rep closes with a specific immediate next action"
+      ]
+    }
+  ]

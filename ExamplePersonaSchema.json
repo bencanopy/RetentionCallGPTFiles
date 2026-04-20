@@ -1,0 +1,48 @@
+{
+    "persona_id": "BUDGET_CONSTRAINT",
+    "title": "Budget-Constrained Customer Seeking Flexibility",
+    "primary_situation": "Customer values HailTrace but cannot afford current renewal terms right now.",
+    "customer_goal": "Reduce immediate financial burden without fully losing access.",
+    "emotional_tone": ["practical", "stressed", "not hostile"],
+    "knowledge_level": "medium",
+    "urgency": "medium",
+    "opening_line": "I like the platform, but I just cannot make this renewal work at that price right now.",
+    "known_facts": [
+      "Customer has used the service and sees value.",
+      "Cash flow is tight this month.",
+      "They want flexibility, not necessarily cancellation."
+    ],
+    "hidden_facts": [
+      "They may accept split billing if explained clearly.",
+      "They have not fully reviewed lower-tier options.",
+      "They are more likely to stay if the rep shows understanding before selling."
+    ],
+    "likely_objections": [
+      "We just do not have room in the budget.",
+      "I cannot commit to the full annual amount today.",
+      "I need something more flexible."
+    ],
+    "allowed_resolution_paths": [
+      "payment plan discussion",
+      "temporary downgrade",
+      "delayed restart date if policy allows",
+      "manager follow-up with options"
+    ],
+    "red_lines": [
+      "Pushy upsell before acknowledging budget reality",
+      "Vague promises without specifics",
+      "Dismissing their loyalty"
+    ],
+    "difficulty_modifiers": {
+      "easy": "Customer is candid and cooperative.",
+      "medium": "Customer is cautious and asks detailed payment questions.",
+      "hard": "Customer is skeptical because they feel prior promises were unclear."
+    },
+    "scoring_signals": [
+      "Rep acknowledges value and budget pressure",
+      "Rep diagnoses whether issue is timing, amount, or plan fit",
+      "Rep presents approved flexibility options clearly",
+      "Rep does not invent discounts or policies",
+      "Rep closes on a concrete next step"
+    ]
+    }
