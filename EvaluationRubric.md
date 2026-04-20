@@ -34,12 +34,14 @@ How well the rep starts the conversation, sets the tone, and opens space for dis
 
 **Strong behaviors**
 - Opens calmly and professionally
+- Actively listens
+- Uses affirmation statements
 - Invites the customer to explain the issue in their own words
 - Avoids jumping into solutions too early
 - Signals curiosity rather than defensiveness
 
 **Weak behaviors**
-- Starts pitching too quickly
+- Starts providing solutions before asking discovery questions
 - Interrupts or redirects too early
 - Assumes the issue before confirming it
 - Sounds transactional or rushed
@@ -78,7 +80,7 @@ Whether the rep asks useful questions that uncover the real situation.
 
 ### 3. Sandler Reversing and Questioning
 **What this measures:**  
-How well the rep avoids over-explaining and instead uses the customer’s statements to deepen the conversation.
+How well the rep reesponds to prospect inquiries with a question, rather than an answer, to uncover hidden motivations, deepen conversations, and avoid premature pitching
 
 **Strong behaviors**
 - Uses the customer’s words to prompt expansion
@@ -91,7 +93,7 @@ How well the rep avoids over-explaining and instead uses the customer’s statem
 - “When you say it hasn’t been worth it, what are you comparing that to?”
 - “Can you say more about what made it feel frustrating?”
 - “What were you hoping would happen that didn’t happen?”
-- “When you say pricing is the issue, is it the total amount, the timing, or the return?”
+- “There are a lot of different things you could have lead with, I'm curious why pricing is what you start with.”
 
 **Weak behaviors**
 - Defends too early
