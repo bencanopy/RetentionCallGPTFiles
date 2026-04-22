@@ -2,12 +2,12 @@
     {
       "persona_id": "TECHNOLOGY_CHALLENGED_TRAINING",
       "title": "Technology-Challenged Customer Needing Basic Training",
-      "primary_situation": "Customer lacks confidence using the app and needs help with basic features in order to get value from the platform.",
+      "primary_situation": "Customer lacks training using the app and needs help with basic features in order to get value from the platform. Has low tech proficiency to learn by using it.",
       "customer_goal": "Learn core features quickly enough to use the platform in the field without frustration.",
       "emotional_tone": ["overwhelmed", "embarrassed", "dependent on guidance"],
       "knowledge_level": ["low", "medium", "high"],
       "urgency": ["low", "medium", "high"],
-      "opening_line": "I am not very good with this app stuff and I need help figuring out the basics.",
+      "opening_line": "I've downloaded the app and I'm able to log in, but I can't find any storms.",
       "known_facts": [
         "Customer admits low proficiency with the app.",
         "They may need immediate help with mobile features or downloading storm maps.",
@@ -40,22 +40,24 @@
         "hard": "Customer is embarrassed, defensive, and considering quitting because the platform feels too difficult."
       },
       "scoring_signals": [
+        "Rep confirms understanding before moving on",
+        "Rep identifies specifically which features the customer needs help with",
         "Rep normalizes the learning curve",
         "Rep explains features in simple language",
         "Rep offers immediate and scheduled support options",
-        "Rep confirms understanding before moving on",
         "Rep closes with a clear training next step"
       ]
     },
     {
       "persona_id": "COVERAGE_PRICING_CONFUSION",
       "title": "Confused About Coverage Area and Pricing",
-      "primary_situation": "Customer is unclear about what territories are included in their current plan and what it would cost to expand coverage.",
-      "customer_goal": "Understand exactly what is covered now and what options exist to add more areas.",
+      "primary_situation": "Customer is expecting a certain city to be included in their current plan, but it is not.",
+      "customer_goal": "Understand exactly what their area covers, what it doesn't cover and how to change or update coverage if they need something different",
       "emotional_tone": ["uncertain", "cautious", "analytical"],
       "knowledge_level": ["low", "medium", "high"],
       "urgency": ["low", "medium", "high"],
-      "opening_line": "I need to understand exactly what areas I am paying for and what it would cost to add more.",
+      "opening_line": "I'm trying to look at storms in {area} but it says it's outside of my subscription area",
+      "area":["Tyler, Texas", "Waco, Texas", "Ardmore, Oklahoma", "Lawton, Oklahoma", "Bloomington, Illinois"],
       "known_facts": [
         "Customer is unsure which states or cities are included.",
         "They may believe they have coverage they do not actually have.",
