@@ -1,11 +1,11 @@
 # Global Company Rules
 
 ## Metadata
-- Version:
-- Effective Date:
-- Owner:
+- Version: 1.0
+- Effective Date: April 23, 2026
+- Owner: Ben Baranowski
 - Last Reviewed:
-- Applies To: CS, Retention, Billing Support
+- Applies To: CS, Retention, Sales
 - Priority Order: Contract > Finance Policy > Current Standard Process > Manager Guidance
 
 ## Universal Behavior Rules
@@ -19,9 +19,9 @@
 
 ### Rule ID: UBR-002
 - Name: Discovery before solution
-- Rule: Reps must confirm account context, problem type, and desired outcome before offering a resolution.
+- Rule: Reps must confirm account context and problem type before offering a resolution.
 - Required Questions:
-  - What outcome are you hoping for today?
+  - What is the name of the account you're calling about.
   - Which coverage area or account is affected?
   - Is this a billing, access, training, or renewal issue?
 - Fail Conditions:
@@ -46,13 +46,13 @@
 ## Billing and Payment Rules
 ### Rule ID: BPR-001
 - Name: Failed payment handling
-- Rule: When payment fails, access and reactivation follow the current billing policy.
+- Rule: When payment fails, access and reactivation require any oustanding invoices to be paid.
 - Rep Must:
   - Confirm reason for failure
   - Explain current account status
   - Offer only approved next steps
 - Rep May Offer:
-  - [Fill in approved options]
+  - To take payment information over the phone and apply it directly to any outstanding payments. If the customer is comfortable sharing their credit card information.
 - Requires Approval:
   - Client must confirm last 4 digits of credti card on file to make any payments.
 
@@ -68,8 +68,8 @@
 
 ### Rule ID: CRR-002
 - Name: Refund eligibility
-- Refund Allowed When:
-- Refund Not Allowed When:
+- Refund Allowed When: There is evidence the customer has not used any part of the platform.
+- Refund Not Allowed When: Client has accessed any data or products in the platform.
 - Credit Allowed When:
 - Extension Allowed When:
 - Approval Required From:

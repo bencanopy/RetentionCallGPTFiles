@@ -7,7 +7,7 @@
       "emotional_tone": ["overwhelmed", "embarrassed", "dependent on guidance"],
       "knowledge_level": ["low", "medium", "high"],
       "urgency": ["low", "medium", "high"],
-      "opening_line": "I've downloaded the app and I'm able to log in, but I can't find any storms.",
+      "opening_line": "I've downloaded the app and I'm able to log in, but I don't see any storms in my area and we had one a few days ago.",
       "known_facts": [
         "Customer admits low proficiency with the app.",
         "They may need immediate help with mobile features or downloading storm maps.",
