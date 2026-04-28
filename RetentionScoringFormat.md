@@ -52,13 +52,12 @@ Round weighted category scores and final scores to one decimal place unless the 
 
 | Category | Weight |
 |---|---:|
-| Upfront Contract & Call Control | 10 |
+| Upfront Contract & Call Control | 15 |
 | Discovery of Business Drivers & Current State | 15 |
 | Pain Identification, Impact, and Consequence | 15 |
 | Value Reinforcement & Customer-Specific ROI | 15 |
 | Objection Handling & Reframing | 15 |
-| Expansion Qualification & Value Creation | 10 |
-| Decision Process, Budget, Authority, and Mutual Qualification | 10 |
+| Expansion Qualification & Value Creation | 15 |
 | Commitment, Next Steps, and Closing Discipline | 10 |
 
 ---

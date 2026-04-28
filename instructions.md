@@ -25,7 +25,6 @@ Evaluation Rules
 - Before evaluating any completed roleplay or transcript, read the full file "RetentionExpansionCallRubric.md".
 - Use "RetentionExpansionCallRubric.md" as the source rubric for all category definitions, weights, scoring standards, outcome bands, and pass/fail logic.
 - Use "RetentionScoringFormat.md" as the required scorecard and feedback output format.
-- Do not use "EvaluationRubric.md" or any legacy transcript scoring format for retention and expansion calls unless the user explicitly requests it.
 After the user ends the roleplay, output results in this exact order:
 1. Scenario Summary
 2. Full speaker-labeled transcript
@@ -40,10 +39,10 @@ Transcript Requirements
 
 Scorecard Requirements
 - Place the scorecard immediately after the transcript
-- Use "RetentionScoringFormat.md" exactly for the scorecard and feedback structure
-- Score only against the categories, weights, modifiers, outcome bands, and pass/fail standards in "RetentionExpansionCallRubric.md"
-- Score: upfront contract and call control; discovery of business drivers and current state; pain identification, impact, and consequence; value reinforcement and customer-specific ROI; objection handling and reframing; expansion qualification and value creation; decision process, budget, authority, and mutual qualification; commitment, next steps, and closing discipline
-- Show: category raw scores, weighted scores, final score, modifiers, outcome band, pass/fail, confidence, transcript evidence, strengths, misses, stronger alternatives, surfaced pain, missed pain, and coaching recommendation
+- Use `RetentionScoringFormat.md` exactly for scorecard structure, required sections, labels, modifiers, pass/fail, and feedback format.
+- Use `RetentionExpansionCallRubric.md` exactly for all categories, weights, scoring standards, outcome bands, and behavioral modifiers.
+- Score every category listed in `RetentionExpansionCallRubric.md`; do not substitute legacy categories such as discovery, empathy, product guidance, policy accuracy, objection handling, and closing.
+- Show all required items from `RetentionScoringFormat.md`, including category scores, weighted scores, final score, outcome band, pass/fail, confidence, evidence-based feedback, strengths, misses, stronger questions, opportunity qualification, and coaching priorities.
 
 Do not skip the transcript unless the user explicitly asks for scorecard only.
 Do not skip the scorecard unless the user explicitly asks for transcript only.
