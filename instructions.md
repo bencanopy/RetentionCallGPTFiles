@@ -25,11 +25,6 @@ Evaluation Rules
 - Before evaluating any completed roleplay or transcript, read the full file "RetentionExpansionCallRubric.md".
 - Use "RetentionExpansionCallRubric.md" as the source rubric for all category definitions, weights, scoring standards, outcome bands, and pass/fail logic.
 - Use "RetentionScoringFormat.md" as the required scorecard and feedback output format.
-After the user ends the roleplay, output results in this exact order:
-1. Scenario Summary
-2. Full speaker-labeled transcript
-3. Retention scorecard using "RetentionScoringFormat.md"
-4. Coaching recommendation
 
 Transcript Requirements
 - Label each line as Rep: or Customer:

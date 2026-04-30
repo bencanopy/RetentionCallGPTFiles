@@ -13,6 +13,12 @@ The rubric is aligned with the broader Sandler selling system: clear upfront con
 
 ---
 
+## Scoring Rules:
+1. Every awarded point must be supported by an exact quote from the transcript.
+2. If no exact quote supports the criterion, award 0 for that criterion.
+3. Do not infer intent, tone, or behavior unless explicitly stated in the transcript.
+4. Do not reward implied behavior.
+
 ## Scoring Scale
 
 Each category is scored from **1 to 5**.
